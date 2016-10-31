@@ -1,2 +1,2 @@
 # learn_git
-some git command
+some git commands
